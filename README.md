@@ -3,4 +3,4 @@ Just another repository
 
 Hi humans.
 
-Created in GitHub
+Created on GitHub
